@@ -4,13 +4,6 @@
 
 ---
 
-## 📸 Screenshots
-
-| 🗺️ Live Ride Tracking | 🚗 Booking Page | 👨‍✈️ Captain Dashboard |
-|-----------------------|-----------------|------------------------|
-| ![Live Tracking](./screenshots/live-tracking.png) | ![Booking](./screenshots/booking.png) | ![Captain Dashboard](./screenshots/captain-dashboard.png) |
-
-> Screenshots showcase the core features of the app.
 
 ---
 
